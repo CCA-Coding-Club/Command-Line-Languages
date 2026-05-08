@@ -5,5 +5,4 @@ git pull
 How to push to the github.
 git add.
 git commit -m "summary"
-git push branch (example: git push origin/main)
-
+git push
