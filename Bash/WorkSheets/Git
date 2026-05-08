@@ -1,0 +1,9 @@
+pull to the device
+go to the relevant directory and type:
+git pull
+
+How to push to the github.
+git add.
+git commit -m "summary"
+git push branch (example: git push origin/main)
+
