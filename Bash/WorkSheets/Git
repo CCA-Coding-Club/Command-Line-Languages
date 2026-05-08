@@ -1,8 +1,25 @@
-pull to the device
-go to the relevant directory and type:
-git pull
+Pull to the device
+    go to the relevant directory and type:
+    git pull
 
 How to push to the github.
-git add.
-git commit -m "summary"
-git push
+    git add.
+    git commit -m "your summary"
+    git push
+
+Check git branch
+    git branch
+
+Change git branch
+    git switch <your branch>
+
+Refreshes your local repository without changing it.
+    git fetch
+
+Merge a branch
+    git merge <branch name>
+    git push
+
+It makes a directory into a local repository
+    git init
+    git remote add <remote> <url>
