@@ -16,6 +16,10 @@ Change git branch
 Refreshes your local repository without changing it.
     git fetch
 
+Merge a branch
+    git merge <branch name>
+    git push
+
 It makes a directory into a local repository
     git init
     git remote add <remote> <url>
